@@ -1,0 +1,55 @@
+.card-descripcion {
+    width: min(21em, 30%);
+}
+
+.card-image {
+    width: 4em;
+    height: 4em;
+    margin-right: 1em;
+}
+
+.card-image path {
+    fill: #ffffff;
+}
+
+.bg-color {
+    background-color: #3c49d5!important;
+}
+
+.bg-color__table {
+    background-color: #343da4!important;
+}
+
+.color-btn {
+    background-color: #232b85!important;
+}
+
+.color-btn:hover {
+    background-color: #1a216c!important;
+}
+
+.editar-btn {
+    background-color: #299941!important;
+}
+
+.editar-btn:hover {
+    color: #ffffff!important;
+    background-color: #1a7a2f!important;
+}
+
+.eliminar-btn {
+    background-color: #992929!important;
+}
+
+.eliminar-btn:hover {
+    color: #ffffff!important;
+    background-color: #741919!important;
+}
+
+th,td {
+    vertical-align: middle !important;
+  }
+
+.logo:hover > *{
+    color: #8778fd;
+}
